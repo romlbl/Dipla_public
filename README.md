@@ -9,7 +9,7 @@ Deux types de comptes cohabitent :
 Dipla est **entièrement gratuit**, aussi bien pour les particuliers que pour les commerces : aucun abonnement, aucune commission, aucune fonctionnalité payante.
 
 > ⚠️ **Statut du projet : site vitrine / démonstration technique.**
-> Ce dépôt est une reconstruction complète et personnelle du projet Dipla, réalisée à des fins d'apprentissage et de portfolio. **Le site n'est pour l'instant pas ouvert à de vrais commerces ni à de vrais utilisateurs** : il n'y a pas de données réelles et aucune entreprise n'y est actuellement référencée en production. C'est une démonstration de ce que le site peut faire, pas un service actif.
+> Ce dépôt est une reconstruction complète et personnelle de la première version du projet Dipla, réalisée à des fins d'apprentissage et de portfolio. **Le site n'est pour l'instant pas ouvert à de vrais commerces ni à de vrais utilisateurs** : il n'y a pas de données réelles et aucune entreprise n'y est actuellement référencée en production. C'est une démonstration de ce que le site peut faire, pas un service actif.
 
 ---
 
@@ -77,7 +77,7 @@ Lien vers Dipla : https://diplav2.onrender.com
 
 ## Utilisation de l'IA dans ce projet
 
-Dans un soucis de rapidité et d'efficacité ce projet a été développé avec l'aide d'un assistant IA (Claude, d'Anthropic) utilisé comme outil de génération de code assistée. **Le site n'a pas été créé « à l'aveugle » en déléguant tout à l'IA.** :
+Ce projet étant une reconstruction à partir d'une première version et dans un soucis de rapidité et d'efficacité, il a été développé avec l'aide d'un assistant IA (Claude, d'Anthropic) utilisé comme outil de génération de code assistée. **Le site n'a pas été créé « à l'aveugle » en déléguant tout à l'IA.** :
 
 - L'IA a été utilisée pour générer des blocs de code ciblés : composants Livewire, migrations, méthodes de modèles Eloquent, requêtes SQL, scripts Alpine.js, gabarits Blade, configuration Docker, etc.
 - **Chaque bloc de code généré a été relu, compris et vérifié manuellement** avant d'être intégré au projet — aucun code n'a été copié-collé aveuglément. Les choix d'architecture ont été discutés et validés au fil de l'eau plutôt que délégués intégralement.
